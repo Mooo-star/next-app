@@ -41,4 +41,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - [ ] 大文件上传
 - [ ] 简历
 - [ ] 瀑布流
+- [ ] 图片上传 / 裁剪
 - [ ] ...
